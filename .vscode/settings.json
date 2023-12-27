@@ -1,0 +1,31 @@
+{
+	// editor
+	"editor.wordWrap": "on",
+	"editor.tabSize": 2,
+	"editor.guides.bracketPairs": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"files.autoSave": "afterDelay",
+
+	// explorer
+	"explorer.compactFolders": false,
+
+	// workbench
+	"workbench.editor.enablePreview": false,
+	"workbench.iconTheme": "material-icon-theme",
+
+	// prettier
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.enable": true,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"prettier.semi": false,
+
+	// terminal
+	"terminal.integrated.profiles.windows": {
+		"Git Bash": {
+			"source": "Git Bash"
+		}
+	},
+	"terminal.integrated.defaultProfile.windows": "Git Bash"
+}
